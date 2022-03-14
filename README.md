@@ -1,5 +1,6 @@
 # React-Roadmap
 Learning and building my React skills 
 
-Begineer Concepts
+Beginner Concepts
 - [x] Day 01 - Introduction and React-dom
+- [ ] Day 02 - JSX 
