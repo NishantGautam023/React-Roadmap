@@ -7,4 +7,5 @@ Beginner Concepts
 - [X] Day 03 - Props and Components
 - [X] Day 04- Mini UI kit
 - [X] Day 05 - Pure Functions
-- [ ] Day 06 - State with Hooks
+- [X] Day 06 - state and UseState Hooks
+- [ ] Day 07 - 
