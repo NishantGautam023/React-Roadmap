@@ -8,4 +8,5 @@ Beginner Concepts
 - [X] Day 04- Mini UI kit
 - [X] Day 05 - Pure Functions
 - [X] Day 06 - state and UseState Hooks
-- [ ] Day 07 - 
+- [X] Day 07 - Events, Conditional State Change and Conditional Rendering
+- [ ] Day 08 - Project - Online SuperMarket
