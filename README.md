@@ -9,4 +9,6 @@ Beginner Concepts
 - [X] Day 05 - Pure Functions
 - [X] Day 06 - state and UseState Hooks
 - [X] Day 07 - Events, Conditional State Change and Conditional Rendering
-- [ ] Day 08 - Project - Online SuperMarket
+- [X] Day 08 - Project - Online SuperMarket
+- [X] Day -09 - Multiple states 
+- [ ] Day 10 - State with Arrays and Objects 
