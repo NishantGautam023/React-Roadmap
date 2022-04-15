@@ -13,3 +13,4 @@ Beginner Concepts
 - [X] Day -09 - Multiple states 
 - [X] Day 10 - State with Arrays and Objects
 - [X] Day 11 - 14Th April Forms Basics 
+- [ ] Day 12 - CRA and Stateless and stateful component 
