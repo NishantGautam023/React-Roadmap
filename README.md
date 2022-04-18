@@ -14,4 +14,5 @@ Beginner Concepts
 - [X] Day 10 - State with Arrays and Objects
 - [X] Day 11 - 14Th April Forms Basics 
 - [X] Day 12 - CRA and Stateless and stateful component 
-- [ ] - Functional State Update, React Dev Tools
+- [X] - Functional State Update, React Dev Tools
+- [X] useEffect 
